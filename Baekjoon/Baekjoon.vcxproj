@@ -132,6 +132,19 @@
     <ClCompile Include="1008.c" />
     <ClCompile Include="1152.c" />
     <ClCompile Include="1157.c" />
+    <ClCompile Include="1330.c" />
+    <ClCompile Include="2438.c" />
+    <ClCompile Include="2439.c" />
+    <ClCompile Include="2475.c" />
+    <ClCompile Include="2557.c" />
+    <ClCompile Include="2562.c" />
+    <ClCompile Include="2577.c" />
+    <ClCompile Include="2675.c" />
+    <ClCompile Include="2739.c" />
+    <ClCompile Include="2741.c" />
+    <ClCompile Include="2753.c" />
+    <ClCompile Include="2884.c" />
+    <ClCompile Include="2920.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
