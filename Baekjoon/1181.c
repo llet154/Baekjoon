@@ -3,18 +3,7 @@
 //#include <string.h>
 //#include <stdlib.h>
 //
-//int compare(const void* arg1, const void* arg2)
-//{
-//	//길이순 정렬
-//	if (strlen((const char*)arg1) > strlen((const char*)arg2))
-//		return 1;
-//	else if (strlen((const char*)arg1) < strlen((const char*)arg2))
-//		return -1;
-//	//길이가 같으면 사전순
-//	else
-//		return strcmp((char*)arg1, (char*)arg2);
-//}
-//
+//int compare(const void* arg1, const void* arg2);
 //
 //int main()
 //{
@@ -40,4 +29,16 @@
 //	} 
 //
 //	return 0;
+//}
+//
+//int compare(const void* arg1, const void* arg2)
+//{
+//	//길이순 정렬
+//	if (strlen((const char*)arg1) > strlen((const char*)arg2))
+//		return 1;
+//	else if (strlen((const char*)arg1) < strlen((const char*)arg2))
+//		return -1;
+//	//길이가 같으면 사전순
+//	else
+//		return strcmp((char*)arg1, (char*)arg2);
 //}
