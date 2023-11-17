@@ -144,6 +144,15 @@
     <ClCompile Include="1654.c">
       <Filter>소스 파일\class2</Filter>
     </ClCompile>
+    <ClCompile Include="1676.c">
+      <Filter>소스 파일\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="1874.c">
+      <Filter>소스 파일\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="1920.c">
+      <Filter>소스 파일\class2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10809.c">
