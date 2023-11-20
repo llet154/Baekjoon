@@ -155,6 +155,8 @@
     <ClCompile Include="1874.c" />
     <ClCompile Include="1920.c" />
     <ClCompile Include="1929.c" />
+    <ClCompile Include="1978.c" />
+    <ClCompile Include="2108.c" />
     <ClCompile Include="2438.c" />
     <ClCompile Include="2439.c" />
     <ClCompile Include="2475.c" />
