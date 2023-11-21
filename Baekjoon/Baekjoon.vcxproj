@@ -157,6 +157,8 @@
     <ClCompile Include="1929.c" />
     <ClCompile Include="1978.c" />
     <ClCompile Include="2108.c" />
+    <ClCompile Include="2231.c" />
+    <ClCompile Include="2292.c" />
     <ClCompile Include="2438.c" />
     <ClCompile Include="2439.c" />
     <ClCompile Include="2475.c" />
@@ -164,6 +166,7 @@
     <ClCompile Include="2557.c" />
     <ClCompile Include="2562.c" />
     <ClCompile Include="2577.c" />
+    <ClCompile Include="2609.c" />
     <ClCompile Include="2675.c" />
     <ClCompile Include="2739.c" />
     <ClCompile Include="2741.c" />
