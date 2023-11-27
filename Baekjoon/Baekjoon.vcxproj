@@ -181,7 +181,10 @@
     <ClCompile Include="2920.c" />
     <ClCompile Include="3052.c" />
     <ClCompile Include="4153.c" />
+    <ClCompile Include="4949.c" />
+    <ClCompile Include="7568.c" />
     <ClCompile Include="8958.c" />
+    <ClCompile Include="9012.c" />
     <ClCompile Include="9498.c" />
   </ItemGroup>
   <ItemGroup>
