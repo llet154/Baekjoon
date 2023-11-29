@@ -138,12 +138,15 @@
     <ClCompile Include="10814.c" />
     <ClCompile Include="10816.c" />
     <ClCompile Include="10818.c" />
+    <ClCompile Include="10828.c" />
+    <ClCompile Include="10989.c" />
     <ClCompile Include="10869.c" />
     <ClCompile Include="10871.c" />
     <ClCompile Include="10950.c" />
     <ClCompile Include="10951.c" />
     <ClCompile Include="10952.c" />
     <ClCompile Include="10998.c" />
+    <ClCompile Include="11050.c" />
     <ClCompile Include="1152.c" />
     <ClCompile Include="1157.c" />
     <ClCompile Include="11654.c" />
